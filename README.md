@@ -1,7 +1,7 @@
 # Digit-Recognition-SVM
 SVM model to recognise building number
 
-![digit](.output/DetectedArea01.jpg)
+![digit](./output/DetectedArea01.jpg)
 
 
 
